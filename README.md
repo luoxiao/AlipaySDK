@@ -15,6 +15,12 @@ iOS 移动支付支付宝SDK，一直保持最新，方便大家集成无需更�
 ```pod 'AlipaySDK_New', :git => 'https://github.com/luoxiao/AlipaySDK.git'```
 
 
+### SDK文件引入
+
+```#import <AlipaySDK_New/AlipaySDK.h>```
+
+OC正常引入，如Swift请在 XXX-Bridge-Header.h 引入
+
 
 #### 温馨提示：
 
