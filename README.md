@@ -4,13 +4,14 @@
 
 iOS 移动支付支付宝SDK，一直保持最新，方便大家集成无需更多配置。
 
-Cocospod 集成
+### Cocospod 集成
 
 推荐
 
 ```pod 'AlipaySDK_New```
 
 或者
+
 ```pod 'AlipaySDK_New', :git => 'https://github.com/luoxiao/AlipaySDK.git'```
 
 
