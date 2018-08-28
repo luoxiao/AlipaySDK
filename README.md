@@ -8,7 +8,7 @@ iOS 移动支付支付宝SDK，一直保持最新，方便大家集成无需更�
 
 #### 推荐
 
-```pod 'AlipaySDK_New```
+```pod 'AlipaySDK_New'```
 
 #### 或者
 
