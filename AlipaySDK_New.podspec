@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AlipaySDK_New"
-  s.version      = "15.5.0"
+  s.version      = "15.5.5"
   s.summary      = "iOS 支付宝 SDK"
 
   # This description is used to generate tags and improve search results.
